@@ -1,0 +1,149 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false">
+      <Languages>
+        <language minSize="60" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="HttpUrlsUsage" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredUrls">
+        <list>
+          <option value="http://localhost" />
+          <option value="http://127.0.0.1" />
+          <option value="http://0.0.0.0" />
+          <option value="http://www.w3.org/" />
+          <option value="http://json-schema.org/draft" />
+          <option value="http://java.sun.com/" />
+          <option value="http://xmlns.jcp.org/" />
+          <option value="http://javafx.com/javafx/" />
+          <option value="http://javafx.com/fxml" />
+          <option value="http://maven.apache.org/xsd/" />
+          <option value="http://maven.apache.org/POM/" />
+          <option value="http://www.springframework.org/schema/" />
+          <option value="http://www.springframework.org/tags" />
+          <option value="http://www.springframework.org/security/tags" />
+          <option value="http://www.thymeleaf.org" />
+          <option value="http://www.jboss.org/j2ee/schema/" />
+          <option value="http://www.jboss.com/xml/ns/" />
+          <option value="http://www.ibm.com/webservices/xsd" />
+          <option value="http://activemq.apache.org/schema/" />
+          <option value="http://schema.cloudfoundry.org/spring/" />
+          <option value="http://schemas.xmlsoap.org/" />
+          <option value="http://cxf.apache.org/schemas/" />
+          <option value="http://primefaces.org/ui" />
+          <option value="http://tiles.apache.org/" />
+          <option value="http://aps.wneweb.com.tw" />
+          <option value="http://172.30.65.55" />
+          <option value="http://{}" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyArgumentListInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyBroadExceptionInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyChainedComparisonsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoreConstantInTheMiddle" value="true" />
+    </inspection_tool>
+    <inspection_tool class="PyGlobalUndefinedInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyMethodMayBeStaticInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="41">
+            <item index="0" class="java.lang.String" itemvalue="torch" />
+            <item index="1" class="java.lang.String" itemvalue="torchvision" />
+            <item index="2" class="java.lang.String" itemvalue="torchaudio" />
+            <item index="3" class="java.lang.String" itemvalue="mysqlclient" />
+            <item index="4" class="java.lang.String" itemvalue="tabulate" />
+            <item index="5" class="java.lang.String" itemvalue="PyYAML" />
+            <item index="6" class="java.lang.String" itemvalue="argsense" />
+            <item index="7" class="java.lang.String" itemvalue="SQLAlchemy" />
+            <item index="8" class="java.lang.String" itemvalue="lk-utils" />
+            <item index="9" class="java.lang.String" itemvalue="QtPy" />
+            <item index="10" class="java.lang.String" itemvalue="qasync" />
+            <item index="11" class="java.lang.String" itemvalue="requests" />
+            <item index="12" class="java.lang.String" itemvalue="PySide6-Addons" />
+            <item index="13" class="java.lang.String" itemvalue="shiboken6" />
+            <item index="14" class="java.lang.String" itemvalue="markdown-it-py" />
+            <item index="15" class="java.lang.String" itemvalue="lk-logger" />
+            <item index="16" class="java.lang.String" itemvalue="Nuitka" />
+            <item index="17" class="java.lang.String" itemvalue="Pygments" />
+            <item index="18" class="java.lang.String" itemvalue="certifi" />
+            <item index="19" class="java.lang.String" itemvalue="mdurl" />
+            <item index="20" class="java.lang.String" itemvalue="pywin32-ctypes" />
+            <item index="21" class="java.lang.String" itemvalue="lambda-ex" />
+            <item index="22" class="java.lang.String" itemvalue="mysql" />
+            <item index="23" class="java.lang.String" itemvalue="urllib3" />
+            <item index="24" class="java.lang.String" itemvalue="lk-qtquick-scaffold" />
+            <item index="25" class="java.lang.String" itemvalue="ordered-set" />
+            <item index="26" class="java.lang.String" itemvalue="PySide6-Essentials" />
+            <item index="27" class="java.lang.String" itemvalue="rich" />
+            <item index="28" class="java.lang.String" itemvalue="packaging" />
+            <item index="29" class="java.lang.String" itemvalue="click" />
+            <item index="30" class="java.lang.String" itemvalue="zstandard" />
+            <item index="31" class="java.lang.String" itemvalue="pefile" />
+            <item index="32" class="java.lang.String" itemvalue="qstring" />
+            <item index="33" class="java.lang.String" itemvalue="typing_extensions" />
+            <item index="34" class="java.lang.String" itemvalue="charset-normalizer" />
+            <item index="35" class="java.lang.String" itemvalue="PySide6" />
+            <item index="36" class="java.lang.String" itemvalue="worksheet" />
+            <item index="37" class="java.lang.String" itemvalue="xdg" />
+            <item index="38" class="java.lang.String" itemvalue="PyMySQL" />
+            <item index="39" class="java.lang.String" itemvalue="openpyxl" />
+            <item index="40" class="java.lang.String" itemvalue="PyInstaller" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+          <option value="E402" />
+          <option value="E231" />
+          <option value="W292" />
+          <option value="E302" />
+          <option value="W391" />
+          <option value="E305" />
+          <option value="E303" />
+          <option value="W605" />
+          <option value="E127" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+          <option value="N806" />
+          <option value="N801" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyShadowingNamesInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyTypeCheckerInspection" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="parentNode" />
+          <option value="main.Keysight" />
+          <option value="main.RemoteAteUtilities" />
+          <option value="main.IRemoteAte" />
+          <option value="main.ExportHtmlOptions" />
+          <option value="main.SaveProjectOptions" />
+          <option value="main.NewProjectOptions" />
+          <option value="config.member_no_list" />
+          <option value="dict.__getitem__" />
+          <option value="str.readlines" />
+          <option value="eye_wave_auto_tool.Keysight" />
+          <option value="eye_wave_auto_tool.RemoteAteUtilities" />
+          <option value="eye_wave_auto_tool.IRemoteAte" />
+          <option value="eye_wave_auto_tool.NewProjectOptions" />
+          <option value="eye_wave_auto_tool.SaveProjectOptions" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
